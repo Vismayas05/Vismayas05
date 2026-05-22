@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Vismaya
 
-<!--
-**Vismayas05/Vismayas05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Web+Developer;Learning+Full+Stack+Development;Building+Real+World+Projects&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 Student passionate about Web Development  
+- 💻 Currently learning JavaScript & React  
+- 🛠️ Skilled in C, Python (Basics), Java (Basics), MySQL  
+- 🌱 Improving problem-solving and coding skills  
+
+---
+
+## 🚀 Projects
+- 🔹 **Inventory Management System**  
+  Java Swing app with login, CRUD operations & stock alerts  
+
+- 🔹 **Facial Authentication System** *(if completed)*  
+  Face-based login system using Python & React  
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages  
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)  
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)  
+
+### 🌐 Web  
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)  
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+
+### 🗄️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  
+
+### ⚙️ Tools  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
+  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Goals
+- 🚀 Become a Full Stack Developer  
+- 📚 Learn React & Backend Development  
+- 💡 Build real-world applications  
+
+---
+
+## 📫 Connect with Me
+🔗 https://github.com/Vismayas05  
+
+---
+
+⭐ *Always learning and growing...*
