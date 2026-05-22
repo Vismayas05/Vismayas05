@@ -66,7 +66,7 @@
 ---
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Vismayas05&color=blue)
 
 ---
 
