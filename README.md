@@ -42,6 +42,11 @@
   
 
 ---
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Vismayas05/snake-animation/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -61,6 +66,11 @@
 
 ## 📫 Connect with Me
 🔗 https://github.com/Vismayas05  
+
+---
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ---
 
