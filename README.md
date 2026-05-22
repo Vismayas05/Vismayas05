@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 Student passionate about Web Development  
-- 💻 Currently learning JavaScript & React  
+- 💻 Currently learning Github  
 - 🛠️ Skilled in C, Python (Basics), Java (Basics), MySQL  
 - 🌱 Improving problem-solving and coding skills  
 
@@ -18,17 +18,16 @@
 - 🔹 **Inventory Management System**  
   Java Swing app with login, CRUD operations & stock alerts  
 
-- 🔹 **Facial Authentication System** *(if completed)*  
-  Face-based login system using Python & React  
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Languages  
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)  
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)  
+## 💻 Languages
+
+![C](https://img.shields.io/badge/C-Intermediate-blue?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-Basic-yellow?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-Basic-red?style=for-the-badge&logo=java) 
 
 ### 🌐 Web  
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)  
