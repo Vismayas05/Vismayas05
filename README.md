@@ -42,7 +42,9 @@
   
 
 ---
+## 🐍 Contribution Snake
 
+![snake gif](https://github.com/Vismayas05/snake-animation/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats
 
