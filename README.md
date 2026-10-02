@@ -165,11 +165,6 @@ Database Systems
 ---
 
 
-<h2>GitHub Contributions</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Vismayas05" alt="Vismaya's GitHub Contributions" />
-</p>
 ---
 
 ## Let's Connect
