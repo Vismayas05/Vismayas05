@@ -165,11 +165,10 @@ Database Systems
 ---
 
 
-
-## GitHub Activity
+<h2>GitHub Contributions</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vismayas05&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://ghchart.rshah.org/Vismayas05" alt="Vismaya's GitHub Contributions" />
 </p>
 ---
 
