@@ -164,14 +164,13 @@ Database Systems
 
 ---
 
-## GitHub Activity
+
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vismayas05&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Vismayas05&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 ---
 
 ## Let's Connect
