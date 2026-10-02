@@ -39,7 +39,7 @@ A full-stack inventory management application designed to simplify product, purc
 - Responsive modern interface
 - Backend API integration with persistent database storage
 
-🔗 🔗 **Repository:** [StockMate 2.0](https://github.com/Vismayas05/StockMate-2.0)
+🔗 🔗 **Repository:** [StockMate 2.0](https://github.com/Vismayas05/stockmate-2.0)
 
 ---
 
@@ -61,7 +61,7 @@ An AI-powered study assistant designed to help students learn efficiently from t
 - Quiz generation
 - Context-aware learning assistance
 
-🔗 **Repository:** [AKO](https://github.com/Vismayas05)
+🔗 **Repository:** [AKO](https://github.com/mebishp/Ako)
 
 ---
 
@@ -81,7 +81,7 @@ A responsive weather application that retrieves real-time weather information us
 - Asynchronous API requests
 - Responsive user interface
 - Error handling for invalid locations
-
+🔗 **Repository:** [Weather](https://github.com/Vismayas05/Weather-dashboard)
 ---
 
 ## Technical Skills
