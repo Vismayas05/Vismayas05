@@ -39,7 +39,7 @@ A full-stack inventory management application designed to simplify product, purc
 - Responsive modern interface
 - Backend API integration with persistent database storage
 
-🔗 🔗 **Repository:** [StockMate 2.0](https://github.com/Vismayas05/stockmate-2.0)
+ 🔗 **Repository:** [StockMate 2.0](https://github.com/Vismayas05/stockmate-2.0)
 
 ---
 
