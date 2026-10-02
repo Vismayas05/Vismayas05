@@ -166,9 +166,10 @@ Database Systems
 
 ## GitHub Activity
 
+## GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vismayas05&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vismayas05&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vismayas05&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
